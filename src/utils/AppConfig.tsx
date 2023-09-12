@@ -4,7 +4,7 @@ class AppConfig {
     public static readonly KM_LENGHT: number = 6;
     public static readonly EMAIL_LENGHT: number = 30;
     public static readonly REMARK_LENGHT: number = 200;
-    public static readonly PASSWORD_LENGHT: number = 15;
+    public static readonly PASSWORD_LENGHT: number = 20;
 
 }
 
